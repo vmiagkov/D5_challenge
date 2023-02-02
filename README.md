@@ -35,7 +35,7 @@ Execute following commands in the renode monitor window:
   - showAnalyzer sysbus.uart0
   - start
 
-Hallo World string is sent on the uart0  as shown on this picture:
+Hello World string is sent on the uart0  as shown on this picture:
 
 ![UART0 output from Renode](./uart0.bmp)
 
